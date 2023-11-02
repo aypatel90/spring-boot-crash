@@ -1,0 +1,1 @@
+Demo repository for spring boot crash course using spring boot initializer
